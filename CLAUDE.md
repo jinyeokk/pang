@@ -81,3 +81,4 @@ Phase 구현 전 반드시 해당 설계 문서를 먼저 확인한다. 설계�
 | 문서 | 경로 | 내용 |
 |------|------|------|
 | Phase 1 설계 | [docs/design/phase1.md](docs/design/phase1.md) | 메인 화면 컴포넌트 구조, 상태 설계, 키보드 처리, 스타일 방향 |
+| Phase 2 설계 | [docs/design/phase2.md](docs/design/phase2.md) | 게임 화면 뼈대, HUD 구성, ESC 복귀, 게임 영역 레이아웃 |

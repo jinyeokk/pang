@@ -16,7 +16,7 @@ const BUBBLES = [
 function MainScreen({ onStart }: Props) {
   return (
     <div style={{
-      background: 'radial-gradient(ellipse at 50% 40%, #1a1a4e 0%, #0a0a1e 60%, #000008 100%)',
+      background: 'radial-gradient(ellipse at 50% 40%, #2e2e7a 0%, #1a1a4e 60%, #0d0d2e 100%)',
       width: '100vw',
       height: '100vh',
       display: 'flex',
