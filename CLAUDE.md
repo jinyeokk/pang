@@ -64,11 +64,20 @@ docs/
 
 이 프로젝트는 아케이드 게임 **팡(Pang, 1989)** 을 React + Vite + TypeScript 로 구현하는 것을 목표로 한다.
 
+### 기획 문서
+
 | 문서 | 경로 | 내용 |
 |------|------|------|
 | PRD | [docs/prd.md](docs/prd.md) | 게임 전체 개요, 핵심 규칙, 구현 범위 |
+| 개발 계획 | [docs/plan.md](docs/plan.md) | Phase 1~12 목표, 고객 확인 포인트, 진행 현황 |
 | 메인 화면 | [docs/features/main.md](docs/features/main.md) | 첫 진입 화면 레이아웃 및 메뉴 구성 |
 | 게임 룰 | [docs/features/game_rule.md](docs/features/game_rule.md) | 풍선 분열, 무기, 아이템, 점수 시스템 상세 |
 | Mission 1 | [docs/features/mission1.md](docs/features/mission1.md) | 스테이지 1-1~1-3 난이도 및 구성 규칙 |
 
-기능 구현 전 반드시 해당 문서를 먼저 확인하고, 문서와 구현이 다를 경우 문서를 우선 기준으로 삼는다.
+### 설계 문서
+
+Phase 구현 전 반드시 해당 설계 문서를 먼저 확인한다. 설계와 구현이 다를 경우 설계 문서를 우선 기준으로 삼는다.
+
+| 문서 | 경로 | 내용 |
+|------|------|------|
+| Phase 1 설계 | [docs/design/phase1.md](docs/design/phase1.md) | 메인 화면 컴포넌트 구조, 상태 설계, 키보드 처리, 스타일 방향 |
